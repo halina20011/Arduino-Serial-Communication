@@ -5,4 +5,4 @@ pip install serial
 pip install time
 ```
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This project was built by [Halina](https://www.youtube.com/channel/UCG0h6r6T1joRASO29JV9qMQ).
