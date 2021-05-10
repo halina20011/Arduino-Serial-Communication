@@ -1,2 +1,6 @@
 # Arduino-Serial-Communication
-This is a project for beginners who want to learn Arduino and Python serial communication.
+Install Python libraries
+```
+pip install serial
+pip install time
+```
