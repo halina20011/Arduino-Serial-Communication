@@ -23,7 +23,7 @@ void loop(){
       Serial.println("Led: ON");
       digitalWrite(ledPin, HIGH); //Turn ON Led
     }
-    if (incomingByte == '0'){ //If the serial port sent 1, the LED will turn OFF.
+    if (incomingByte == '0'){ //If the serial port sent 0, the LED will turn OFF.
       Serial.println("Led: OFF");
       digitalWrite(ledPin, LOW); //Turn OFF Led
     }
