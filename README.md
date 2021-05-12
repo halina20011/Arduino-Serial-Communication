@@ -1,5 +1,5 @@
 # Arduino-Serial-Communication
-<h1>Install Python libraries
+<h1>Install Python libraries.<h1>
 If you do not have pyserial installed, run cmd as administrator and type:
 ```
 pip install pyserial
