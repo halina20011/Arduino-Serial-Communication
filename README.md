@@ -1,5 +1,5 @@
 # Arduino-Serial-Communication
-You can find the whole instructions at: https://youtu.be/19JRoPShAcI
+[You can find the whole instructions here.](https://www.youtube.com/channel/UCG0h6r6T1joRASO29JV9qMQ).
 ## Install Python libraries
 If you do not have pyserial installed, run cmd as administrator and type:
 ```
